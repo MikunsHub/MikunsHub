@@ -9,7 +9,7 @@
 ------------------------------------------
 
 
-I am passionate about software devlopment and learning new things.
+I am passionate about software development and learning new things.
 
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **A Student Record Management System for the EEE Department at the University of Ibadan**
