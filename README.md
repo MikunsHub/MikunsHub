@@ -5,15 +5,14 @@
   , I am Ogunjuyigbe Ayomikun.</h1>
  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Software+Engineer...;Backend+Developer...;...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Software+Engineer...;Backend+Developer...;...;Frontend+Developer..."/>
 ------------------------------------------
 
 
 I am passionate about software development and learning new things.
 
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **A Student Record Management System for the EEE Department at the University of Ibadan**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Microservices, Kubernetes, Docker, Azure, System Design**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Microservices, Kubernetes, Docker, AWS, System Design**
 - 🤝  I'm open to collaborating on projects!
 - ✉️  You can contact me at [ogunjuay@gmail.com](mailto:ogunjuay@gmail.com)
 
