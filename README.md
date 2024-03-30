@@ -85,7 +85,7 @@ I am passionate about software development and learning new things.
 <p align="center">
 
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapoadedire&theme=highcontrast&hide_border=true" alt="MikunsHub" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MikunsHub&theme=highcontrast&hide_border=true" alt="MikunsHub" />
 </p>
 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MikunsHub&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
